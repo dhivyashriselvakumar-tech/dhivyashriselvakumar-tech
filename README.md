@@ -1,4 +1,4 @@
-# Hi there, I'm a Java Backend Developer 👋
+# Hi there, I'm a Java Backend Developer 
 
 ### Java Backend Developer | Spring Boot | Microservices | Distributed Systems
 
@@ -6,7 +6,7 @@ I'm a Backend Developer passionate about building scalable backend applications,
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 **Programming Language**
 - Java
@@ -45,7 +45,7 @@ I'm a Backend Developer passionate about building scalable backend applications,
 
 ---
 
-## 🚀 Professional Experience
+##  Professional Experience
 
 - Designed and developed scalable REST APIs using Java and Spring Boot.
 - Worked on microservices-based backend applications.
@@ -58,7 +58,7 @@ I'm a Backend Developer passionate about building scalable backend applications,
 
 ---
 
-## 📌 Key Projects
+##  Key Projects
 
 **1. Vendor Portal**
 - Developed vendor authentication and onboarding workflows.
@@ -76,14 +76,14 @@ I'm a Backend Developer passionate about building scalable backend applications,
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - **GitHub:** https://github.com/dhivyashriselvakumar-tech
 - **LinkedIn:** https://www.linkedin.com/in/dhivyashri-dev/
 
 ---
 
-⭐ Always learning, building, and improving as a backend engineer.
+ Always learning, building, and improving as a backend engineer.
 
 <!--
 **dhivyashriselvakumar-tech/dhivyashriselvakumar-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
